@@ -1,0 +1,139 @@
+
+body{
+margin: 0;
+background-color: ivory;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+ul li{
+    float: right;
+    color: crimson;
+    margin: 10px;
+    display: inline-block;
+    margin: 8px;
+}
+li a{
+    text-decoration: none;
+}
+.fast-web{
+    width: 40%;
+    padding: 3%;
+    margin: 2%;
+    float: left;
+}
+.fast-web img{
+    width: 100%;
+}
+section{
+   height: 500px;
+   margin-bottom: 100px;
+}
+.images-port{
+    align-items: center;
+    padding: 1px;
+    line-height: 0.5;
+}
+#section{
+    display: inline-block;
+    padding: 3px;
+    margin-right:10;
+    margin-left: auto;
+    position: relative;
+    align-items: center;
+    align-items: flex-start;
+}
+.nace-all{
+    width: 25%;
+    margin-left: 80px;
+    margin-right:auto;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 5px;
+
+
+}
+.bangladesh{
+    background-color:rgb(250, 247, 241);
+    background-size: 600px 400px;
+}
+#jabai{
+    color: goldenrod;
+}
+#bagg{
+    color: greenyellow;
+}
+#faste{
+    color: tomato;
+}
+#third{
+    color: orange;
+    font-size: 50px;
+}
+#hii{
+    color: black;
+    font-size: 20px;
+}
+.link-fast{
+    text-decoration: none;
+    padding: 12px;
+    margin: 14px;
+    background-image: linear-gradient(rgb(212, 120, 103), gray);
+    font-weight: 600;
+}
+#hello{
+    color:black;
+    font-size: 60px;
+}
+#hii{
+    color: greenyellow;
+    font-size: 30px;
+}
+.last-web{
+    padding: 14px;
+    margin: 20px;
+   box-shadow: 10px 10px 35px gray;
+   background-color: rgba(33, 53, 3, 0.473);
+   font-size: 20px;
+   font-weight: 600;
+   text-transform: capitalize;
+   margin-left:50px;
+  
+}
+.gghh{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+#banna{
+        border-left: 5px solid;
+        border-image: linear-gradient(150deg,gold,red);
+        border-image-slice: 1;
+}
+#bannaaa{
+    border-left: 5px solid;
+    border-image: linear-gradient(150deg,blue ,green);
+    border-image-slice: 1;
+}
+.title{
+    background-image: url(images/Group_33094_1.png);
+    background-size: contain;
+   height: 170px;
+   width: 600px;
+    background-repeat: no-repeat;
+    background-position:center;
+    margin-left: 320px;
+    margin-top: -250px;
+}
+.marhaba{
+    text-align: center;
+}
+.batita{
+  margin-left:600px; 
+  margin-bottom: 50px;
+}
+.hahaha{
+    width: 50px;
+}
