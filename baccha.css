@@ -10,7 +10,6 @@ ul {
     overflow: hidden;
 }
 ul li{
-    float: right;
     color: crimson;
     margin: 10px;
     display: inline-block;
